@@ -35,11 +35,11 @@ const CarCard = ({ car }: CarCardProps) => {
 
       <div className="relative w-full h-40 my-3 object-contain">
         <Image
-          src="/hero.png"
+          src="/acura.png"
           alt="Car Model"
           fill
           priority
-          className="object-contain"
+          className="object-contain scale-100"
         />
       </div>
 
